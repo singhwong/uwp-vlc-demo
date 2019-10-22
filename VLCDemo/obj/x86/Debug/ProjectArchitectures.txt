@@ -1,0 +1,1 @@
+C:\Users\singh\source\repos\VLCDemo\VLCDemo\VLCDemo.csproj;x86
